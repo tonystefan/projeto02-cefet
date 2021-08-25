@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Projeto_02</string>
+    <string name="Fatorial">fatorial</string>
+    <string name="fibonacci">Fibonacci</string>
+    <string name="n_mero_primo">Número Primo</string>
+    <string name="n_mero">Número:</string>
+    <string name="fibonacci2">Fibonacci</string>
+    <string name="n_mero_primo1">Número Primo:</string>
+    <string name="resultado">resultado</string>
+    <string name="fatorial">Fatorial:</string>
+    <string name="n3">Número:</string>
+    <string name="n1">Número:</string>
+    <string name="n2">Número:</string>
+    <string name="resultado2">resultado</string>
+    <string name="fibo">Fibonacci:</string>
+    <string name="resultado3">resultado</string>
+    <string name="testar">Testar</string>
+    <string name="exibir">Exibir</string>
+    <string name="exibir2">Exibir</string>
+</resources>
